@@ -1,1 +1,1 @@
-# ws-js
+# Studying web with JavaScript
